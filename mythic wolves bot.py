@@ -63,4 +63,4 @@ async def verify(ctx):
 
 
 
-bot.run('OTcyODA0OTU2ODQxMTgxMjA0.YneZNw.WDsARUOGgAjcikj9EiR2b0qL1Eg')
+bot.run('')
